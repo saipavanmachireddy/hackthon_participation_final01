@@ -1,4 +1,4 @@
-# hackthon_participation_final01
+# hackthon_participation_final01  (COVID-19 PREDICTING PROBABILITY)
 
 All getting nearest result  but the training to the model should be improved 
 
